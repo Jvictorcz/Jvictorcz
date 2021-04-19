@@ -1,4 +1,4 @@
-##### Hi there 👋, I'm João Victor
+# Hi there 👋, I'm João Victor
 
 <!--
 **Jvictorcz/Jvictorcz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
