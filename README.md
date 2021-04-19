@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - 🔭 I’m not working at any company right now. 
   
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jvictorcz&theme=gotham)](https://github.com/Jvictorcz/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jvictorcz&layout=compact&theme=gotham)](https://github.com/Jvictorcz/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jvictorcz&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jvictorcz&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
