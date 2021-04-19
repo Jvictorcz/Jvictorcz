@@ -17,16 +17,10 @@ Here are some ideas to get you started:
 #### I´m a passionate Front-End web developer.
 - 🌱 I’m currently learning HTML, CSS and JAVASCRIPT.
 - 🔭 I’m not working at any company right now. 
-
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jvictorcz&theme=gotham)" />
-  <img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jvictorcz&layout=compact&theme=gotham)" />
- </a>
-  -->
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jvictorcz&theme=gotham)](https://github.com/Jvictorcz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jvictorcz&layout=compact&theme=gotham)](https://github.com/Jvictorcz/github-readme-stats)
 
 
 
