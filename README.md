@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'am João Victor
 
 <!--
 **Jvictorcz/Jvictorcz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning HTML, CSS and JAVASCRIPT.
+- 🔭 I’m not working at any company right now. 
+
 <a href="https://www.linkedin.com/in/joaovictorcz/" >
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/joaovictorcz/" />
 </a>
